@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Himanshu Rajput
-- 👀 I’m interested in ...Full Stack Development
-- 🌱 I’m currently learning ...MERN
-- 💞️ I’m looking to collaborate on ...TCS 
+- 👀 I’m interested in ...Data Analsyt
+- 🌱 I’m currently learning ...Data analsyt with Gen AI
+- 💞️ I’m looking to collaborating on good MNC  
 - 📫 How to reach me ...hr8127884821@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
